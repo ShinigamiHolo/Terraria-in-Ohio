@@ -1,6 +1,6 @@
 # Terraria in Ohio (Or otherwise?)
 
-![Logo](relative%TerrariaInOhioLogo.png?raw=true "Title")
+![Logo](TerrariaInOhioLogo.png?raw=true "Title")
 
 ---
 
