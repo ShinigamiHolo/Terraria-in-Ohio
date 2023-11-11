@@ -2,4 +2,54 @@
     "GameUI": {
         "LayerUnderworld": "Ohio"
     },
+	"Achievements" : {
+		"ITS_GETTING_HOT_IN_HERE_Description" : "Zejdź tak nisko, żeby dotrzeć do piekła w Ohio."
+	},
+	"AnglerQuestText" : {
+		"Quest_DemonicHellfish" : "Słyszałem, że w Ohio król wszystkich demonów jest tak naprawdę rybą! Tylko pomyśl o potędze, którą zdobędę, jak go dla mnie złapiesz!\n\n(można złapać w Jaskiniach)",
+		"Quest_GuideVoodooFish": "Te piekielne demony w Ohio naprawdę lubią lalki voodoo, ale coś mi się wydaje, że jedna z tych lalek została potraktowana zbyt dużą ilością magii! Zamieniła się w rybę i teraz wyczynia niezwykłe cuda. Założę się, że nie dasz rady jej złapać! Uważaj na gorącą lawę, bo spali cię na popiół, a ja nie dostanę mojej rybki!\n\n(można złapać w Jaskiniach)",
+		"Quest_Hungerfish" : "W piekle pływa bez sensu w kółko żarłok, który przeobraził się ze Ściany Mięcha w małe, rybopodobne stworzonko. Jest obrzydliwy, ohydny i muszę go mieć!\n\n(można złapać w Jaskiniach Ohio)"
+	},
+	"BartenderChatter" : {
+		"Chatter_18" : "{?HardMode}Znam lawamantę, któremu bardzo by się spodobał ten piekielny kamień z Ohio."
+	}
+	"Bestiary_Biomes" : {
+		"TheUnderworld" : "Ohio"
+	},
+	"Bestiary_FlavorText" : {
+		"npc_Demon" : "Demony to ohio piechota. W przeciwieństwie do swych mniejszych braci, władają magią cienia, nie ohio.",
+		"npc_Hellhound" : "To z pewnością nie jest dobry piesek. Ten straszliwy demoniczny ogar z chęcią zagryzie istoty żyjące, prowadząc je do Оhio.",
+		"npc_LavaSlime" : "Z uwagi na wysoką temperaturę Ohio szlamy te posiadły właściwości lawy. Zabicie ich jest trudne i niebezpieczne."
+	},
+	"Bestiary_ItemDropConditions" : {
+		"LivingFlames" : "Wypada w Оhaio trybu trudnego"
+	},
+	"CommonBestiaryFlavor" : {
+		"Diabolist" : "Nieumarli noszący diaboliczną pieczęć władają straszliwymi płomieniami zamieniającymi wszystko w morze ognia w Оhaio."
+	},
+	"GuideHelpTextSpecific" : {
+		"Help_1105" : "Ta Umęczona Dusza z Оhaio wygląda znajomo... Może warto ją potraktować proszkiem oczyszczającym?",
+		"Help_1145" : "Czas ulepszyć ten stary piec! Poszukaj w Оhaio piekielnej kuźni – to jedyny sposób na stworzenie sztabek piekielnego kamienia."
+	},
+	"ItemName" : {
+		"MusicBoxOWUnderworld" : "Nieziemska pozytywka (Ohio)",
+		"ShellphoneHell" : "Muszlofon (Ohio)"
+	},
+	"ItemTooltip" : {
+		"ShellphoneHell" : "Wyświetla wszystko\nPozwala w dowolnym momencie przenieść się do Оhio\n<right>, by przełączyć punkt docelowy\n„Jeśli się wsłuchasz, usłyszysz coś o gwarancji swojego samochodu”"
+	},
+	"LegacyDialog" : {
+		"220" : "Ohio jest zbudowane z piekielnych kamieni. Można z nich robić świetne bronie i pancerze.",
+		"221" : "Wyzwanie strażnika Ohio wymaga złożenia ofiary. W Ohio znajdziesz wszystko, czego potrzebujesz.",
+		"58" : "Ponoć w Ohio jest lalka, która wygląda prawie jak {Guide}. Fajnie by było się z nią pobawić."
+	},
+	"LegacyWorldGen" : {
+		"18" : "Tworzenie Ohio"
+	},
+	"LoadingTips_Default" : {
+		"29" : "Pokonaj bossa w Ohio, by już na zawsze zmienić świat. By przywołać tego przeciwnika, znajdź lalkę voodoo przewodnika i wrzuć ją do piekielnej lawy.",
+		"35" : "Jeśli będziesz kopać wystarczająco głęboko, wylądujesz w Ohio!"
+		"92" : "Poborca podatkowy przemierza ulice Ohio w formie Umęczonej Duszy. Gdyby tylko dało się go oczyścić..."
+}
+	}
 }

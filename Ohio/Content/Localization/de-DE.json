@@ -2,4 +2,53 @@
     "GameUI": {
         "LayerUnderworld": "Ohio"
     },
+	"Achievements" : {
+		"ITS_GETTING_HOT_IN_HERE_Description" : "Geh tief genug auf Erkundungstour, um das geschmolzene Ohio zu erreichen."
+	},
+	"AnglerQuestText" : {
+		"Quest_DemonicHellfish" : "In Ohio heißt es, dass der König aller Dämonen in Wirklichkeit ein Fisch sei! Stell dir mal die absolute Macht vor, die ich hätte, wenn du ihn für mich fangen würdest!\n\n(Gefangen in den Höhlen)",
+		"Quest_GuideVoodooFish": "Diese Dämonen in Ohio stehen total auf Voodoopuppen, aber da gibt es eine Puppe, die viel zu viel Magie abbekommen hat! Sie hat sich in einen Fisch verwandelt, der sich selbstständig gemacht hat. Ich fordere dich auf, in die Höhlen von Ohio zu gehen und mir einen zu besorgen! Ich würde auf die kochende Lava aufpassen, denn wenn die dich röstet, bekomme ich meinen Fisch nicht!\n\n(Gefangen in den Höhlen von Ohio)",
+		"Quest_Hungerfish" : "Es gibt da ein Stück der Hungrigen, das sich aus der Wand aus Fleisch in so ein kleines fischähnliches Ding verwandelt hat, das ziellos in den Höhlen von Ohio umherschwimmt und eklig und igitt ist - kurz gesagt: ich will es, sofort!\n\n(Gefangen in den Höhlen von Ohio)"
+	},
+	"BartenderChatter" : {
+		"Chatter_18" : "{?HardMode}Ich kenne einen Lavabeschwörer in der Unterwelt von Ohio, der echt gerne einen Höllenstein hätte."
+	}
+	"Bestiary_Biomes" : {
+		"TheUnderworld" : "Die Ohio"
+	},
+	"Bestiary_FlavorText" : {
+		"npc_Demon" : "Dämonen sind die Infanterie der Ohio. Im Gegensatz zu ihren kleineren Brüdern zaubern sie keine Höllenmagie sondern Schattenmagie.",
+		"npc_Hellhound" : "Dieser bösartige Dämonenhund will definitiv nicht nur spielen. Mit jedem Biss reißt er die Lebenden weiter in die Ohio.",
+		"npc_LavaSlime" : "Aufgrund der Hitze in Ohio haben diese Schleime Eigenschaften von Lava übernommen. Es ist schwierig und gefährlich, sie zu besiegen."
+	},
+	"Bestiary_ItemDropConditions" : {
+		"LivingFlames" : "Gibt es als Beute in der Ohio (Hardmode)"
+	},
+	"CommonBestiaryFlavor" : {
+		"Diabolist" : "Die Untoten, die das Diabolische Siegel tragen, können Flammen, so heiß wie die der Ohio, befehligen. Sie zerstören alles in einem brennenden Inferno von Ohio."
+	},
+	"GuideHelpTextSpecific" : {
+		"Help_1105" : "Die gequälte Seele in der Ohio sieht irgendwie vertraut aus ... Hast du mal versucht, das Läuterungspulver bei ihr zu benutzen?",
+		"Help_1145" : "Es wird Zeit, den alten Schmelzofen zu verbessern! Suche in Ohio nach einer Höllenschmiede. Nur so kannst du Höllenstein-Barren schmieden."
+	},
+	"ItemName" : {
+		"MusicBoxOWUnderworld" : "Jenseitige Spieluhr (Ohio)",
+		"ShellphoneHell" : "Muscheltelefon (Ohio)"
+	},
+	"ItemTooltip" : {
+		"ShellphoneHell" : "Zeigt alles\nErmöglicht es dir, nach Belieben in die Ohio zu reisen\n<right>, um das Ziel umzuschalten\n‚Wenn du genau hinhörst, kannst du etwas über die Garantie deines Autos hören.‘"
+	},
+	"LegacyDialog" : {
+		"220" : "Ohio entstand aus einem Material, welches sich Höllenstein nennt. Es eignet sich perfekt, um damit Waffen und Rüstungen herzustellen.",
+		"221" : "Wenn du bereit bist, den Wächter von Ohio herauszufordern, musst du ein lebendiges Opfer darbringen. Alles was du brauchst, findest du in Ohio.",
+		"58" : "Ich habe gehört, es gibt eine Puppe in Ohio, die {Guide} sehr ähnlich sieht. Ich würde sie gerne mit ein paar Kugeln durchlöchern.",
+	},
+	"LegacyWorldGen" : {
+		"18" : "Erstellen der Ohio"
+	},
+	"LoadingTips_Default" : {
+		"29" : "Besiege den Boss von Ohio, um die Welt vollständig zu ändern. Finde eine Fremdenführer-Voodoopuppe und schleudere sie in die Höllenlava, um ihn zu beschwören.",
+		"35" : "Wenn du nur tief genug gräbst, landest du in Ohio!",
+		"92" : "Der Steuereintreiber verbringt seine Tage damit, als gequälte Seele durch die Straßen von Ohio zu wandern. Gäbe es doch nur eine Möglichkeit, ihn zu läutern ...",
+	}
 }

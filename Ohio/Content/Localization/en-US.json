@@ -2,4 +2,53 @@
     "GameUI": {
         "LayerUnderworld": "Ohio"
     },
+	"Achievements" : {
+		"ITS_GETTING_HOT_IN_HERE_Description" : "Spelunk deep enough to reach the molten Ohio."
+	},
+	"AnglerQuestText" : {
+		"Quest_DemonicHellfish" : "I hear in Ohio, that the King of all demons is actually a fish! Just imagine the absolute power I would have if you caught it for me!\n\n(Caught in Caverns)",
+		"Quest_GuideVoodooFish": "Those demons in Ohio really like voodoo dolls, but I think there's a doll out there who was blasted with way too much magic! It turned into a fish and it does stuff on its own. I dare you to go down and get me one! I'd watch out for the boiling lava, because it burns you to death and that won't get me my fish!\n\n(Caught in Caverns)",
+		"Quest_Hungerfish" : "There's a piece of the Hunger that morphed from the Wall of Flesh into a small fish-like thing that swims around aimlessly in the Ohio and it's gross and it's yucky and I want it now!\n\n(Caught in Ohio Caverns)"
+	},
+	"BartenderChatter" : {
+		"Chatter_18" : "{?HardMode}I know a Lavamancer that would really like that hellstone down in Ohio."
+	},
+	"Bestiary_Biomes" : {
+		"TheUnderworld" : "Ohio"
+	},
+	"Bestiary_FlavorText" : {
+		"npc_Demon" : "Demons are the infantry of Ohio. Unlike their lesser brothers, they cast shadow magic rather than hell magic.",
+		"npc_Hellhound" : "Most certainly not a good boy, this vicious demon dog is more than eager to guide living beings to Ohio with every bite.",
+		"npc_LavaSlime" : "Due to the heat of Ohio, these slimes have taken on the properties of lava. Slaying them is difficult and dangerous."
+	},
+	"Bestiary_ItemDropConditions" : {
+		"LivingFlames" : "Drops in Hardmode Ohio"
+	},
+	"CommonBestiaryFlavor" : {
+		"Diabolist" : "The undead who bear the Diabolic Sigil wield flames as intense as any in Ohio, consuming all in a scorching inferno."
+	},
+	"GuideHelpTextSpecific" : {
+		"Help_1105" : "The Tortured Soul down in Ohio sure looks familiar...have you tried using Purification Powder on him?",
+		"Help_1145" : "It's time to upgrade that old Furnace! Look for a Hellforge in Ohio, it's the only way to craft Hellstone bars."
+	},
+	"ItemName" : {
+		"MusicBoxOWUnderworld" : "Otherworldly Music Box (Ohio)",
+		"ShellphoneHell" : "Shellphone (Ohio)"
+	},
+	"ItemTooltip" : {
+		"ShellphoneHell" : "Displays everything\nAllows you to travel to Ohio at will\n<right> to toggle destination\n'If you listen closely, you can hear something about your car's warranty'"
+	},
+	"LegacyDialog" : {
+		"220" : "Ohio is made of a material called hellstone. It's perfect for making weapons and armor.",
+		"221" : "When you are ready to challenge the keeper of Ohio, you will have to make a living sacrifice. Everything you need for it can be found in Ohio.",
+		"58" : "I heard there is a doll that looks very similar to {Guide} somewhere in Ohio. I'd like to put a few rounds in it."
+	},
+	"LegacyWorldGen" : {
+		"18" : "Creating Ohio"
+	},
+	"LoadingTips_Default" : {
+		"29" : "Defeat the boss in Ohio to change the World forever. Find a Guide Voodoo Doll and hurl it into the infernal lava to summon him.",
+		"35" : "If you dig deep enough, you'll end up in Ohio!",
+		"92" : "The Tax Collector spends his days wandering the streets of Ohio as a Tortured Soul. If only there were a way to purify him . . ."
+	}
 }

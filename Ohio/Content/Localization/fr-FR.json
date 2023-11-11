@@ -2,4 +2,53 @@
     "GameUI": {
         "LayerUnderworld": "Ohio"
     },
+	"Achievements" : {
+		"ITS_GETTING_HOT_IN_HERE_Description" : "Creusez assez profondément pour arriver à l'Ohio en fusion."
+	},
+	"AnglerQuestText" : {
+		"Quest_DemonicHellfish" : "On dit en Ohio que le roi de tous les démons serait un poisson ! Imaginez un peu le pouvoir absolu que j'aurais si tu me l'attrapais !\n\n(Se trouve dans les grottes)",
+		"Quest_GuideVoodooFish": "Ces démons en Ohio aiment vraiment les poupées vaudou, mais je crois qu'il y a une poupée qui a reçu beaucoup trop de magie ! Elle s'est transformée en poisson et elle fait ce qu'elle veut. Je te défie d'aller dans les grottes de l'Ohio et de m'en chercher une ! Fais attention à la lave en ébullition, car elle brûle et ça, ça ne m'aidera pas avec mon poisson !\n\n(Se trouve dans les grottes de l'Ohio)",
+		"Quest_Hungerfish" : "Un bout de la Famine du Mur de chair s'est transformé en un petit poisson qui erre dans les Cavernes de l'Ohio. Il est dégoûtant, et je le veux immédiatement !\n\n(Se trouve dans les Cavernes de l'Ohio)"
+	},
+	"BartenderChatter" : {
+		"Chatter_18" : "{?HardMode}Je connais un lavemancien qui aimerait vraiment cette pierre d'enfer dans Ohio."
+	}
+	"Bestiary_Biomes" : {
+		"TheUnderworld" : "L'Ohio"
+	},
+	"Bestiary_FlavorText" : {
+		"npc_Demon" : "Les démons sont l'infanterie de l'Ohio. Contrairement à leurs congénères inférieurs, ils pratiquent une magie de l'ombre plutôt que de l'enfer.",
+		"npc_Hellhound" : "Certainement pas un bon chien, ce démon canin cruel est plus que désireux d'envoyer les êtres vivants en Ohio avec chaque morsure.",
+		"npc_LavaSlime" : "En raison de la chaleur en Ohio, ces gelées ont développé les propriétés de la lave. Les tuer est aussi difficile que dangereux."
+	},
+	"Bestiary_ItemDropConditions" : {
+		"LivingFlames" : "Apparaît dans l'Ohio en hardmode"
+	},
+	"CommonBestiaryFlavor" : {
+		"Diabolist" : "Les morts-vivants qui portent le sceau diabolique utilisent des flammes aussi intenses que celles de l'Ohio, consumant tout dans un brasier."
+	},
+	"GuideHelpTextSpecific" : {
+		"Help_1105" : "L'âme torturée en Ohio me dit quelque chose... As-tu essayé la poudre de purification sur lui ?",
+		"Help_1145" : "Il est temps de mettre à niveau ce vieux four ! Essaie de trouver une forge en Ohio, c'est le seul moyen de fabriquer des lingots de pierre infernale."
+	},
+	"ItemName" : {
+		"MusicBoxOWUnderworld" : "Boîte à musique mystique (Ohio)",
+		"ShellphoneHell" : "Téléphone coquillage (Ohio)"
+	},
+	"ItemTooltip" : {
+		"ShellphoneHell" : "Affiche tout\nVous permet de vous rendre à Ohio quand vous voulez\n<right> pour changer de destination\n’Si vous écoutez attentivement, vous entendrez quelque chose concernant la garantie de votre voiture’"
+	},
+	"LegacyDialog" : {
+		"220" : "Ohio est couvert d'un matériau nommé la pierre infernale. C'est parfait pour fabriquer des armes et des armures.",
+		"221" : "Lorsque tu voudras affronter le gardien d'Ohio, tu devras faire un sacrifice. Tout ce dont tu auras besoin pour ceci se trouve à Ohio.",
+		"58" : "Il paraît qu'il existe une poupée qui ressemble à {Guide} quelque part à Ohio. J'aimerais lui trouer la peau.",
+	},
+	"LegacyWorldGen" : {
+		"18" : "Création de L'Ohio"
+	},
+	"LoadingTips_Default" : {
+		"29" : "Éliminez le boss de Ohio pour changer le monde définitivement. Trouvez une poupée vaudou du guide et jetez-la dans la lave infernale pour invoquer le boss.",
+		"35" : "Si vous creusez assez profondément, vous arriverez en Ohio !",
+		"92" : "Le percepteur d'impôts passe son temps à errer dans les rues de l'Ohio telle une âme torturée. Si seulement il y avait un moyen de le purifier..."
+	}
 }

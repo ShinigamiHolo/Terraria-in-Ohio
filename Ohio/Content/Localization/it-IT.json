@@ -2,4 +2,53 @@
     "GameUI": {
         "LayerUnderworld": "Ohio"
     },
+	"Achievements" : {
+		"ITS_GETTING_HOT_IN_HERE_Description" : "Scava abbastanza in profondità da raggiungere l'Ohio infuocato."
+	},
+	"AnglerQuestText" : {
+		"Quest_DemonicHellfish" : "Ho sentito dire che in Ohio il re di tutti i demoni è un pesce! Immagina quanto sarei forte se tu me lo portassi!\n\n(Catturato nelle caverne)",
+		"Quest_GuideVoodooFish": "A quei demoni in Ohio piacciono molto le bambole vudù, ma credo che ce n'è una che ha ricevuto troppa magia! Si è trasformata in un pesce e fa cose da sola. Ti sfido ad andare nelle caverne dell'Ohio e portarmela! Fai attenzione alla lava bollente, perché ti brucerà vivo e non potrai portarmi quel pesce!\n\n(Catturato nelle caverne dell'Ohio)",
+		"Quest_Hungerfish" : "C'è un pezzo dell'Affamato che si è trasformato dal Muro di carne in un pesciolino che nuota senza meta nelle Caverne dell'Ohio. È bruttissimo, disgustoso, ma lo voglio!\n\n(Catturato nelle Cavernes dell'Ohio)"
+	},
+	"BartenderChatter" : {
+		"Chatter_18" : "{?HardMode}Conosco un Lavamante che apprezzerebbe quella pietra infernale nel mondo sotterraneo di Ohio."
+	}
+	"Bestiary_Biomes" : {
+		"TheUnderworld" : "Gli Ohio"
+	},
+	"Bestiary_FlavorText" : {
+		"npc_Demon" : "I demoni sono la fanteria degli Ohio. A differenza dei loro fratelli minori, usano magia dell'ombra piuttosto che magia infernale.",
+		"npc_Hellhound" : "Questo cane demone, che molto probabilmente non è buono, è felicissimo di guidare gli esseri viventi negli Ohio con ogni boccone.",
+		"npc_LavaSlime" : "A causa del calore degli Ohio, questi slime hanno assunto le proprietà della lava. Ucciderli è difficile e pericoloso."
+	},
+	"Bestiary_ItemDropConditions" : {
+		"LivingFlames" : "Si trova negli Ohio in modalità Hardmode"
+	},
+	"CommonBestiaryFlavor" : {
+		"Diabolist" : "I non-morti che portano il sigillo diabolico brandiscono fiamme intense altissime nel mondo sotterraneo di Ohio, consumando tutto in un inferno scottante."
+	},
+	"GuideHelpTextSpecific" : {
+		"Help_1105" : "L'anima torturata negli Ohio mi sembra molto familiare... Hai provato a usare la polvere purificatrice?",
+		"Help_1145" : "È ora di aggiornare quella vecchia fornace! Cerca una forgia infernale negli Ohio, è l'unico modo per creare barre di pietra infernale."
+	},
+	"ItemName" : {
+		"MusicBoxOWUnderworld" : "Carillon soprannaturale (Ohio)",
+		"ShellphoneHell" : "Tellulare (Ohio)"
+	},
+	"ItemTooltip" : {
+		"ShellphoneHell" : "Mostra tutto\nTi consente di viaggiare negli Ohio quando vuoi\n<right> per alternare la destinazione \n\"Se ascolti attentamente, puoi sentire qualcosa sulla garanzia della tua auto.\""
+	},
+	"LegacyDialog" : {
+		"220" : "Gli Ohio sono composti da un materiale detto pietra infernale, perfetto per creare armi e armature.",
+		"221" : "Quando sarai pronto a sfidare il custode degli Ohio, dovrai offrirgli una vittima sacrificale. Trovi tutto il necessario negli Ohio.",
+		"58" : "Ho sentito dire che c'è una bambola molto simile a {Guide} negli Ohio. Vorrei usarla per il tiro al bersaglio.",
+	},
+	"LegacyWorldGen" : {
+		"18" : "Creazione Ohio"
+	},
+	"LoadingTips_Default" : {
+		"29" : "Sconfiggi il boss di Ohio per cambiare per sempre il Mondo. Trova la Bambola Voodoo della Guida e lanciala nella lava infernale per evocarla.",
+		"35" : "Se scavi in profondità, finirai in Ohio!",
+		"92" : "L'Esattore trascorre le giornate girovagando per le strade dell'Ohio come un'Anima Torturata. Se solo esistesse un modo per purificarlo..."
+	}
 }

@@ -2,4 +2,53 @@
     "GameUI": {
         "LayerUnderworld": "Ohio"
     },
+	"Achievements" : {
+		"ITS_GETTING_HOT_IN_HERE_Description" : "Baja lo suficiente como para llegar al Ohio fundido."
+	},
+	"AnglerQuestText" : {
+		"Quest_DemonicHellfish" : "Dicen que en Ohio, el rey de todos los demonios ¡es un pez! ¡Imagínate el poder absoluto que conseguiría si me lo pescases!\n\n(Se encuentra en las cavernas)",
+		"Quest_GuideVoodooFish": "A esos demonios en Ohio les encantan las muñecas vudú, ¡pero creo que hay una muñeca que ha recibido demasiada magia! Se convirtió en un pez y hace cosas por sí misma. ¡Te desafío a que vayas a las cavernas de Ohio y me traigas una! ¡Ten cuidado con la lava hirviendo, porque te quemará hasta la muerte y así no conseguiré mi pez!\n\n(Se encuentra en las cavernas de Ohio)",
+		"Quest_Hungerfish" : "Hay un pez hambriento que ha mutado del Muro de carne en un pequeño pez que nada por las Cavernas de Ohio. ¡Es asqueroso, es repulsivo y yo lo quiero ahora mismo!\n\n(Se encuentra en las Cavernas de Ohio)"
+	},
+	"BartenderChatter" : {
+		"Chatter_18" : "{?HardMode}Conozco a un lavamante al que le encantaría esa piedra infernal de Ohio."
+	}
+	"Bestiary_Biomes" : {
+		"TheUnderworld" : "El Ohio"
+	},
+	"Bestiary_FlavorText" : {
+		"npc_Demon" : "Los demonios son la infantería del Ohio. A diferencia de sus hermanos menores, invocan magia sombría en vez de magia infernal.",
+		"npc_Hellhound" : "Seguramente no sea un chico bueno, puesto que este violento perro demoníaco está ansioso por guiar a los seres vivos hasta el Ohio con cada mordisco.",
+		"npc_LavaSlime" : "Debido al calor de Ohio, estos slimes han adquirido las propiedades de la lava. Matarlos es tan difícil como peligroso."
+	},
+	"Bestiary_ItemDropConditions" : {
+		"LivingFlames" : "Aparece en el Ohio del modo Difícil"
+	},
+	"CommonBestiaryFlavor" : {
+		"Diabolist" : "Los no muertos que portan el Sello diabólico poseen llamas tan intensas como cualquier otra del Ohio, las cuales lo consumen todo en un infierno de fuego."
+	},
+	"GuideHelpTextSpecific" : {
+		"Help_1105" : "Esta alma torturada del Ohio me resulta familiar... ¿Has intentado echarle polvo purificador?",
+		"Help_1145" : "¡Es la hora de mejorar esa vieja fragua! Busca un forja infernal en Ohio, es el único modo de crear lingotes de piedra infernal."
+	},
+	"ItemName" : {
+		"MusicBoxOWUnderworld" : "Caja de música de otro mundo (Ohio)",
+		"ShellphoneHell" : "Teleconcha (Ohio)"
+	},
+	"ItemTooltip" : {
+		"ShellphoneHell" : "Lo muestra todo\nTe permite desplazarte a Ohio cuando quieras\n<right> para cambiar de destino\n\"Si escuchas con atención, podrás oír algo sobre la garantía del coche\""
+	},
+	"LegacyDialog" : {
+		"220" : "Ohio está compuesto de un material llamado piedra infernal, perfecto para crear armas y armaduras.",
+		"221" : "Cuando estés preparado para desafiar al guardián de Ohio, tendrás que hacer un sacrificio viviente. Encontrarás todo lo que necesitas en Ohio.",
+		"58" : "Dicen que en alguna parte de Ohio hay un muñeco que se parece mucho a {Guide}. Ojalá pudiera usarla para practicar tiro al blanco."
+	},
+	"LegacyWorldGen" : {
+		"18" : "Creando Ohio"
+	},
+	"LoadingTips_Default" : {
+		"29" : "Derrota al jefe de Ohio para cambiar el mundo para siempre. Encuentra un muñeco vudú del guía y lánzalo a la lava infernal para invocarlo.",
+		"35" : "Si cavas lo suficientemente hondo, ¡acabarás en Ohio!",
+		"92" : "El recaudador de impuestos se pasa los días vagando las calles de Ohio como alma torturada. Si hubiese una forma de purificarlo..."
+	}
 }
